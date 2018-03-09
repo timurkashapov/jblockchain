@@ -1,3 +1,5 @@
+import utils.StringUtil;
+
 import java.util.Date;
 
 /**
@@ -46,5 +48,13 @@ public class Block {
                         Long.toString(timeStamp) +
                         data
         );
+    }
+
+    public String getHash() {
+        return hash;
+    }
+
+    public long getTimeStamp() {
+        return timeStamp;
     }
 }
