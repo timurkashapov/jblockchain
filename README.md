@@ -7,6 +7,9 @@
 
 *Hash = Digital Signature*
 
+Parameters of blockchain:
+- Difficulty
+
 Actions on blockchain:
 - Calculating hashes
 - Comparing hashes
