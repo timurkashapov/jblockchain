@@ -14,3 +14,8 @@ Actions on blockchain:
 - Calculating hashes
 - Comparing hashes
 - Mining blocks
+
+Topicts:
+- Transactions
+- Signatures
+- Wallets
