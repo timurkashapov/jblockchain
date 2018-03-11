@@ -7,5 +7,7 @@
 
 *Hash = Digital Signature*
 
-- Calculating
-- Comparing
+Actions on blockchain:
+- Calculating hashes
+- Comparing hashes
+- Mining blocks
